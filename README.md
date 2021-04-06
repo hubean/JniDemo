@@ -1,4 +1,5 @@
 # JniDemo
+> 运行报错，可能是LOG的问题。将LOG宏里的`#define window`注释，用`linux`。
 
 ## 一、简介
 JNI 开发中，常常会存在对应的 Java 类和 C 结构体需要互相转换。通过本实例学习和了解这个过程。
